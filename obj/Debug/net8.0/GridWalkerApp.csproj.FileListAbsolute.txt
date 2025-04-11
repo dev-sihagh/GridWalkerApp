@@ -1,0 +1,14 @@
+d:\Projects\GridWalkerApp\bin\Debug\net8.0\GridWalkerApp.exe
+D:\Projects\GridWalkerApp\bin\Debug\net8.0\GridWalkerApp.deps.json
+D:\Projects\GridWalkerApp\bin\Debug\net8.0\GridWalkerApp.runtimeconfig.json
+d:\Projects\GridWalkerApp\bin\Debug\net8.0\GridWalkerApp.dll
+d:\Projects\GridWalkerApp\bin\Debug\net8.0\GridWalkerApp.pdb
+d:\Projects\GridWalkerApp\obj\Debug\net8.0\GridWalkerApp.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projects\GridWalkerApp\obj\Debug\net8.0\GridWalkerApp.AssemblyInfoInputs.cache
+d:\Projects\GridWalkerApp\obj\Debug\net8.0\GridWalkerApp.AssemblyInfo.cs
+d:\Projects\GridWalkerApp\obj\Debug\net8.0\GridWalkerApp.csproj.CoreCompileInputs.cache
+d:\Projects\GridWalkerApp\obj\Debug\net8.0\GridWalkerApp.dll
+d:\Projects\GridWalkerApp\obj\Debug\net8.0\refint\GridWalkerApp.dll
+d:\Projects\GridWalkerApp\obj\Debug\net8.0\GridWalkerApp.pdb
+D:\Projects\GridWalkerApp\obj\Debug\net8.0\GridWalkerApp.genruntimeconfig.cache
+D:\Projects\GridWalkerApp\obj\Debug\net8.0\ref\GridWalkerApp.dll
