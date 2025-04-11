@@ -1,6 +1,6 @@
 # Toy Robot Simulator
 
-A C# console application that simulates a toy robot moving on a 5x5 tabletop grid.
+A C# console application that simulates a GridWalker robot moving on a 5x5 tabletop grid.
 
 ## Description
 
